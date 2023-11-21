@@ -48,7 +48,7 @@ function translate(input){
         return "Không xác định";
     }
 };
-console.log(translate("CN"));
+console.log(translate("DE"));
 
 
 // Bài 4
